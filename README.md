@@ -21,8 +21,10 @@ To compile the program, use the following command:
 
 ```bash
 clang++ -std=c++17 -o tic_tac_toe src/main.cpp
+```
 
 ## Running
 To execute the game, use the following command:
 ```bash
 ./tic_tac_toe
+```
